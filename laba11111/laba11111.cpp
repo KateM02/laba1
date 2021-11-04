@@ -4,7 +4,6 @@
 #include <stdio.h>
 #include<conio.h>
 
-// в меню не при всех выборах возврвщвется значение while(&)
 int get_key()
 {
 	int key = _getch();
